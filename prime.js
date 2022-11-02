@@ -1,4 +1,4 @@
-function check_prime(){
+function check_prime(num){
   
     let count=0;
     for(i=1;i<=num;i++)
